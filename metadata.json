@@ -1,0 +1,7 @@
+{
+  "name": "Creative News Studio",
+  "description": "An AI-powered studio to create news reports and stories using Gemini's multimodal capabilities, centered around the heroic tale of saving a mother cow from a giant python.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
